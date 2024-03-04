@@ -25,7 +25,5 @@ class UserManager{
             cin >> password;
 
             User newUswer(username, password);
-
-            users.push_back()
         }
 };
